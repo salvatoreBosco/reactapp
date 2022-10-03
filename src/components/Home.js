@@ -40,6 +40,7 @@ function Home() {
                 <h1 className='title'>Discover my world!</h1>
             </div>
         </div>
+        <div className='none'>ciao</div>
     </>
 }
 
