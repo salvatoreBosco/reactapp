@@ -18,7 +18,7 @@ function Home() {
             <div className='section watch'>
                 <h1 className='title'>Discover my world!</h1>
             </div>
-        </div>+
+        </div>
     </>
 }
 
