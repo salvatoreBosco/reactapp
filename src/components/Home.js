@@ -1,7 +1,6 @@
 import React from 'react'
 import '../css/Home.css'
 function Home() {
-    console.log('home')
     //elements
     var elements_to_watch = document.querySelectorAll('.watch')
 
@@ -10,6 +9,7 @@ function Home() {
         items.forEach((item) => {
             if (item.isIntersecting) {
                 item.target.classList.add("in-page")
+                console.log('home')
             } else {
                 item.target.classList.remove("in-page")
             }
