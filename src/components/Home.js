@@ -1,6 +1,7 @@
 import React from 'react'
 import '../css/Home.css'
 function Home() {
+    console.log('home')
     //elements
     var elements_to_watch = document.querySelectorAll('.watch')
 
@@ -39,8 +40,7 @@ function Home() {
             <div className='section watch'>
                 <h1 className='title'>Discover my world!</h1>
             </div>
-        </div>
-        <div className='none'>ciao</div>
+        </div>+
     </>
 }
 
