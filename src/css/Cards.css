@@ -1,0 +1,55 @@
+hr{
+    width: 100%;
+  }
+  
+  .card-article{
+    border: 1px solid red;
+    width: 100%;
+    background-color: var(--bg-color-card);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    margin: 10px;
+  }
+  
+  .card-article>p{
+    margin-bottom: 10px;
+    background-color: var(--details-color);
+    width: 100%;
+    text-align: center;
+  }
+  
+  .card-article button{
+    margin-bottom: 5px;
+    background-color: rgb(73, 73, 73);
+    width: 60%;
+    border-radius: 8px;
+    border: 1px solid var(--details-color);
+  }
+  
+  .card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .card img{
+    width: 60%;
+    margin-bottom: 5px;
+  }
+  
+  .card h6{
+    margin-bottom: 5px;
+  }
+  
+  .card hr{
+    margin-bottom: 5px;
+  }
+  
+  .card p{
+    margin-bottom: 5px;
+  }

@@ -1,0 +1,16 @@
+:root{
+  --bg-color-body: grey;
+  --bg-color-card: rgb(78, 104, 121);
+  --details-color: rgb(112, 174, 255);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  background-color: var(--bg-color-body);
+}
+
