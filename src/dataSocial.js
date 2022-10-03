@@ -18,7 +18,7 @@ const social = [
         siteName: "My Site",
         img: "https://media-exp1.licdn.com/dms/image/C5603AQG-AJTCLw4MyQ/profile-displayphoto-shrink_800_800/0/1655310103678?e=1669248000&v=beta&t=0DqgXLepDHYZKhIA6pdFAP3hpLCY0uIjPyT0BSsORUw",
         alt: "My site",
-        url: "https://github.com/salvatoreBosco/Static-page-whith-HTML-CSS-JAVASCRIPT"
+        url: "https://salvatorebosco.netlify.app/"
     }
 ]
 
