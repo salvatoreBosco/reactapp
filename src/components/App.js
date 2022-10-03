@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <nav>
+      <nav className='my-nav'>
         <MyNav></MyNav>
       </nav>
       <Home></Home>
